@@ -7,6 +7,20 @@
 
 **CreditsPlan** 是一个独立的 AI Coding 套餐对比与订阅决策平台，帮助开发者比较价格、额度、支持模型、使用条件和价格变化。
 
+## 💻 CreditsPlan Assistant / CreditsPlan 助手
+
+**[Download for Windows x64 / 下载 Windows x64 安装包](https://github.com/CreditsPlan/creditsplan/releases/latest/download/CreditsPlan-Assistant-windows-x64-setup.exe)**
+
+Track local Codex and Claude Code usage and access CreditsPlan online features. Cloud usage sync is opt-in.
+
+查看 Codex、Claude Code 的本机用量统计，使用 CreditsPlan 在线功能；云同步需要主动开启。
+
+The installer is currently unsigned. Windows may show an Unknown Publisher or SmartScreen warning. Updates are downloaded manually.
+
+当前安装包未做 Windows 代码签名，Windows 可能显示“未知发布者”或 SmartScreen 提示。当前采用手动下载更新。
+
+[Installation and privacy / 安装与隐私说明](ASSISTANT.md) · [All releases / 全部版本](https://github.com/CreditsPlan/creditsplan/releases)
+
 ## 🌐 Official Websites / 官方网站
 
 - 🇨🇳 China / 中国站：https://creditsplan.cn
@@ -55,9 +69,9 @@ Learn how CreditsPlan collects, verifies, and maintains pricing and plan informa
 
 **CreditsPlan — 让 AI Coding 套餐更容易比较。**
 
-This repository is the official CreditsPlan brand and discovery page.
+This repository is the official CreditsPlan brand, discovery, and app download page.
 
-本仓库仅作为 CreditsPlan 官方品牌与搜索入口。
+本仓库作为 CreditsPlan 官方品牌、搜索与应用下载入口。
 
 Production source code, complete datasets, price-history datasets, and private data-processing logic are not published here.
 
