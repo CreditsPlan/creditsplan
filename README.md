@@ -81,11 +81,21 @@ When contacting us, include the partnership type, brand, product, applicable mar
 
 Track local Codex and Claude Code usage and access CreditsPlan online features. Cloud usage sync is opt-in.
 
-**[下载 Windows x64 安装包 / Download for Windows x64](https://github.com/CreditsPlan/creditsplan/releases/latest/download/CreditsPlan-Assistant-windows-x64-setup.exe)**
+**[下载中心 / Download center](https://creditsplan.ai/download/)** · v0.1.1
+
+| 系统 / Platform | 下载 / Download |
+| --- | --- |
+| Windows x64 | [Windows 安装包 / Windows installer](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.1/CreditsPlan-Assistant-windows-x64-setup.exe) |
+| Mac · Apple Silicon（M 系列 / M series） | [Apple Silicon DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.1/CreditsPlan-Assistant-macos-arm64.dmg) |
+| Mac · Intel | [Intel DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.1/CreditsPlan-Assistant-macos-x64.dmg) |
 
 当前安装包未做 Windows 代码签名，Windows 可能显示“未知发布者”或 SmartScreen 提示。当前采用手动下载更新。
 
 The installer is currently unsigned. Windows may show an Unknown Publisher or SmartScreen warning. Updates are downloaded manually.
+
+Mac 包采用临时签名，尚未经过 Apple 公证。打开 DMG 后将应用拖入 Applications；首次打开可能需要在“系统设置 → 隐私与安全性”中选择“仍要打开”。最低配置为 macOS 11.0，双架构已在 macOS 15.7.9 自动验证。当前采用手动更新。
+
+Mac apps use ad-hoc signatures and are not Apple notarized. Open the DMG and drag the app to Applications; first open may require “Open Anyway” in System Settings → Privacy & Security. macOS 11.0 or later is configured; both architectures were tested automatically on macOS 15.7.9. Updates are downloaded manually.
 
 [安装与隐私说明 / Installation and privacy](ASSISTANT.md) · [全部版本 / All releases](https://github.com/CreditsPlan/creditsplan/releases)
 
