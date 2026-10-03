@@ -81,13 +81,13 @@ When contacting us, include the partnership type, brand, product, applicable mar
 
 Track local Codex and Claude Code usage and access CreditsPlan online features. Cloud usage sync is opt-in.
 
-**[下载中心 / Download center](https://creditsplan.ai/download/)** · v0.1.1
+**[下载中心 / Download center](https://creditsplan.ai/download/)** · v0.1.2
 
 | 系统 / Platform | 下载 / Download |
 | --- | --- |
-| Windows x64 | [Windows 安装包 / Windows installer](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.1/CreditsPlan-Assistant-windows-x64-setup.exe) |
-| Mac · Apple Silicon（M 系列 / M series） | [Apple Silicon DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.1/CreditsPlan-Assistant-macos-arm64.dmg) |
-| Mac · Intel | [Intel DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.1/CreditsPlan-Assistant-macos-x64.dmg) |
+| Windows x64 | [Windows 安装包 / Windows installer](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.2/CreditsPlan-Assistant-windows-x64-setup.exe) |
+| Mac · Apple Silicon（M 系列 / M series） | [Apple Silicon DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.2/CreditsPlan-Assistant-macos-arm64.dmg) |
+| Mac · Intel | [Intel DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.2/CreditsPlan-Assistant-macos-x64.dmg) |
 
 当前安装包未做 Windows 代码签名，Windows 可能显示“未知发布者”或 SmartScreen 提示。当前采用手动下载更新。
 
