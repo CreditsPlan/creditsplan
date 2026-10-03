@@ -4,13 +4,13 @@ CreditsPlan 的 Windows / Mac 桌面客户端：查看 Codex、Claude Code 的�
 
 ## 下载
 
-**[官网下载中心](https://creditsplan.ai/download/)** · 当前版本 v0.1.2
+**[官网下载中心](https://creditsplan.ai/download/)** · 当前版本 v0.1.3
 
 | 平台 | 下载 | 大小 | 发布时间 |
 | --- | --- | --- | --- |
-| Windows x64 | [EXE 安装包](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.2/CreditsPlan-Assistant-windows-x64-setup.exe) | 14.0 MB | 2026-10-03 |
-| Mac · Apple Silicon（M 系列） | [arm64 DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.2/CreditsPlan-Assistant-macos-arm64.dmg) | 18.8 MB | 2026-10-03 |
-| Mac · Intel | [x64 DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.2/CreditsPlan-Assistant-macos-x64.dmg) | 19.1 MB | 2026-10-03 |
+| Windows x64 | [EXE 安装包](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.3/CreditsPlan-Assistant-windows-x64-setup.exe) | 14.2 MB | 2026-10-04 |
+| Mac · Apple Silicon（M 系列） | [arm64 DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.3/CreditsPlan-Assistant-macos-arm64.dmg) | 19.1 MB | 2026-10-04 |
+| Mac · Intel | [x64 DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.3/CreditsPlan-Assistant-macos-x64.dmg) | 19.5 MB | 2026-10-04 |
 
 [查看全部版本和更新说明](https://github.com/CreditsPlan/creditsplan/releases)
 
@@ -44,7 +44,7 @@ Windows 下载 `.exe` 安装包；Mac 下载与芯片对应的 `.dmg`。GitHub �
 
 - 官网：[creditsplan.ai](https://creditsplan.ai)
 - 问题反馈：[官网反馈入口](https://creditsplan.ai/feedback/)
-- [SHA-256 校验清单](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.2/SHA256SUMS.txt)包含三个安装包和发布材料。
+- [SHA-256 校验清单](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.3/SHA256SUMS.txt)包含三个安装包和发布材料。
 - Windows 许可为 Release 的 `THIRD_PARTY_LICENSES.txt` 与 `THIRD_PARTY_NOTICES.md`；Mac 为 `THIRD_PARTY_MACOS_LICENSES.txt` 与 `THIRD_PARTY_MACOS_NOTICES.md`，也随应用提供。
 
 本仓库用于公开分发安装包和说明，应用源码由独立私有仓库维护。
