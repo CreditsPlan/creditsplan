@@ -81,20 +81,22 @@ When contacting us, include the partnership type, brand, product, applicable mar
 
 Track local Codex and Claude Code usage and access CreditsPlan online features. Cloud usage sync is opt-in.
 
-**[下载中心 / Download center](https://creditsplan.ai/download/)** · v0.1.7
+**[下载中心 / Download center](https://creditsplan.ai/download/)** · Mac v0.1.11（正式签名 / Developer ID signed）
 
 | 系统 / Platform | 下载 / Download |
 | --- | --- |
 | Windows x64 | [Windows 安装包 / Windows installer](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.7/CreditsPlan-Assistant-windows-x64-setup.exe) |
-| Mac · Apple Silicon（M 系列 / M series） | [Apple Silicon DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.7/CreditsPlan-Assistant-macos-arm64.dmg) |
+| Mac · Apple Silicon（M 系列 / M series） | [Apple Silicon DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.11-macos-signed.1/CreditsPlan-Assistant-macos-arm64.dmg) |
 
 当前安装包未做 Windows 代码签名，Windows 可能显示“未知发布者”或 SmartScreen 提示。当前采用手动下载更新。
 
-The installer is currently unsigned. Windows may show an Unknown Publisher or SmartScreen warning. Updates are downloaded manually.
+The Windows installer is currently unsigned. Windows may show an Unknown Publisher or SmartScreen warning. Updates are downloaded manually.
 
-Mac 包采用临时签名，尚未经过 Apple 公证。打开 DMG 后将应用拖入 Applications；首次打开可能需要在“系统设置 → 隐私与安全性”中选择“仍要打开”。最低配置为 macOS 11.0，Apple Silicon 已在 macOS 15.3.1 自动验证。当前采用手动更新。
+Mac 仅支持 Apple Silicon（M 系列），不支持 Intel Mac。App 与 DMG 已使用 Developer ID 正式签名并通过 Apple 公证。打开 DMG 后将“CreditsPlan 助手”拖入 Applications；首次启动若出现正常的互联网下载确认，核对来源后点击“打开”。要求 macOS 11.0 或更高版本，已在 macOS 15.3.1 完成签名、安装和启动验证。本次为 0.1.11 签名构建修订，需手动下载。
 
-Mac apps use ad-hoc signatures and are not Apple notarized. Open the DMG and drag the app to Applications; first open may require “Open Anyway” in System Settings → Privacy & Security. macOS 11.0 or later is configured; Apple Silicon was tested automatically on macOS 15.3.1. Updates are downloaded manually.
+Mac supports Apple Silicon only; Intel Macs are unsupported. Both the App and DMG are Developer ID signed and Apple notarized. Drag the app to Applications and choose Open if macOS asks for normal first-open confirmation. Requires macOS 11.0 or later; signing, installation, and startup were verified on macOS 15.3.1. Download this 0.1.11 signing revision manually.
+
+[Mac 安装说明 / Mac installation instructions](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.11-macos-signed.1/INSTALL-macos.md) · [Mac SHA-256](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.11-macos-signed.1/SHA256SUMS.txt)
 
 [安装与隐私说明 / Installation and privacy](ASSISTANT.md) · [全部版本 / All releases](https://github.com/CreditsPlan/creditsplan/releases)
 
