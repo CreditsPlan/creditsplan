@@ -18,7 +18,8 @@ CreditsPlan helps you compare AI tools and services by price, plan quotas, suppo
 | --- | --- |
 | **[中国站 · creditsplan.cn](https://creditsplan.cn/)** | 查看面向中国市场的 AI 工具、套餐、模型价格与活动。<br>Explore AI tools, plans, model pricing and offers for the China market. |
 | **[国际站 · www.creditsplan.com](https://www.creditsplan.com/)** | 比较国际 AI 工具与服务的套餐、价格、额度和使用条件。<br>Compare global AI tools and services by plan, price, quota and usage conditions. |
-| **[智能选型 · creditsplan.ai](https://creditsplan.ai/)** | 结合预算、工具、模型需求与已有订阅，寻找更适合的 AI 编程方案。<br>Find AI coding options that fit your budget, tools, model requirements and existing subscriptions. |
+| **[国内智能选型 · ai.creditsplan.cn](https://ai.creditsplan.cn/)** | 使用国内独立服务咨询 AI 编程选型，账户、会话与 Credits 独立于国际服务。<br>Use the mainland China advisor, with accounts, conversations and Credits separate from the international service. |
+| **[国际智能选型 · creditsplan.ai](https://creditsplan.ai/)** | 结合需求寻找 AI 编程方案；也是当前桌面助手连接的服务。<br>Find AI coding options for your needs. This is the service used by the currently released desktop app. |
 
 ## 可以帮助你做什么 / What you can do
 
@@ -35,9 +36,9 @@ Visit the websites and linked vendor sources for current prices, coverage, model
 
 ## 智能选型 / AI Advisor
 
-在 [creditsplan.ai](https://creditsplan.ai/) 描述需求，或选择预算、常用工具、必须支持的模型和已有套餐；可以边聊边调整条件。当前适用场景包括：
+在 [国内智能选型](https://ai.creditsplan.cn/) 或 [国际智能选型](https://creditsplan.ai/) 描述需求，或选择预算、常用工具、必须支持的模型和已有套餐；可以边聊边调整条件。两站账户、会话与 Credits 独立，不自动互通。当前适用场景包括：
 
-Describe your needs at [creditsplan.ai](https://creditsplan.ai/), or select your budget, tools, required models and existing plans. Refine the criteria as you chat. Current scenarios include:
+Describe your needs at the [mainland China advisor](https://ai.creditsplan.cn/) or [international advisor](https://creditsplan.ai/), or select your budget, tools, required models and existing plans. Accounts, conversations and Credits are separate between the two services. Refine the criteria as you chat. Current scenarios include:
 
 - **选一个套餐 / Choose a plan** — 按预算和编程工作流比较候选方案。Compare candidates for your budget and coding workflow.
 - **比较单／双套餐 / Compare one or two plans** — 了解单订阅与双套餐组合的覆盖和取舍。Explore coverage and trade-offs between one subscription and a two-plan combination.
@@ -77,26 +78,26 @@ When contacting us, include the partnership type, brand, product, applicable mar
 
 ## CreditsPlan 助手 / CreditsPlan Assistant
 
-查看 Codex、Claude Code 的本机用量统计，并使用 CreditsPlan 在线功能；云同步需要主动开启。
+查看受支持工具（包括 Codex、Claude Code）的本机用量统计，并使用 CreditsPlan 在线功能；云同步需要主动开启。当前桌面助手连接国际服务 `creditsplan.ai`，使用国际账户与 Credits。国内服务的桌面版暂未发布，请使用 [国内网页版](https://ai.creditsplan.cn/)。
 
-Track local Codex and Claude Code usage and access CreditsPlan online features. Cloud usage sync is opt-in.
+Track local usage from supported tools, including Codex and Claude Code, and access CreditsPlan online features. Cloud usage sync is opt-in. The released desktop app uses international accounts and Credits at `creditsplan.ai`. A desktop app for the mainland China service is not available yet; use the [mainland China web advisor](https://ai.creditsplan.cn/).
 
-**[下载中心 / Download center](https://creditsplan.ai/download/)** · Mac v0.1.11（正式签名 / Developer ID signed）
+**[下载中心 / Download center](https://creditsplan.ai/download/)** · 发布记录核对 / Releases checked: 2026-11-06
 
-| 系统 / Platform | 下载 / Download |
-| --- | --- |
-| Windows x64 | [Windows 安装包 / Windows installer](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.7/CreditsPlan-Assistant-windows-x64-setup.exe) |
-| Mac · Apple Silicon（M 系列 / M series） | [Apple Silicon DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.11-macos-signed.1/CreditsPlan-Assistant-macos-arm64.dmg) |
+| 系统 / Platform | 版本 / Version | 下载 / Download |
+| --- | --- | --- |
+| Windows x64 | 0.1.17 | [Windows 安装包 / Windows installer](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.17/CreditsPlan-Assistant-windows-x64-setup.exe) |
+| Mac · Apple Silicon（M 系列 / M series） | 0.1.18 | [Apple Silicon DMG](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.18/CreditsPlan-Assistant-macos-arm64.dmg) |
 
-当前安装包未做 Windows 代码签名，Windows 可能显示“未知发布者”或 SmartScreen 提示。当前采用手动下载更新。
+Windows 安装包未做代码签名，可能显示“未知发布者”或 SmartScreen 提示。Windows 采用手动下载更新。
 
-The Windows installer is currently unsigned. Windows may show an Unknown Publisher or SmartScreen warning. Updates are downloaded manually.
+The Windows installer is currently unsigned. Windows may show an Unknown Publisher or SmartScreen warning. Windows updates are downloaded manually.
 
-Mac 仅支持 Apple Silicon（M 系列），不支持 Intel Mac。App 与 DMG 已使用 Developer ID 正式签名并通过 Apple 公证。打开 DMG 后将“CreditsPlan 助手”拖入 Applications；首次启动若出现正常的互联网下载确认，核对来源后点击“打开”。要求 macOS 11.0 或更高版本，已在 macOS 15.3.1 完成签名、安装和启动验证。本次为 0.1.11 签名构建修订，需手动下载。
+Mac 仅支持 Apple Silicon（M 系列），不支持 Intel Mac，要求 macOS 11.0 或更高版本。App 与 DMG 已使用 Developer ID 正式签名并通过 Apple 公证。打开 DMG 后将“CreditsPlan 助手”拖入 Applications；首次启动若出现正常的互联网下载确认，核对来源后点击“打开”。旧版 Mac 客户端需手动安装 0.1.18 一次，以启用后续应用内更新；之后由用户确认下载，经签名校验和安装后按提示重启。
 
-Mac supports Apple Silicon only; Intel Macs are unsupported. Both the App and DMG are Developer ID signed and Apple notarized. Drag the app to Applications and choose Open if macOS asks for normal first-open confirmation. Requires macOS 11.0 or later; signing, installation, and startup were verified on macOS 15.3.1. Download this 0.1.11 signing revision manually.
+Mac supports Apple Silicon only and requires macOS 11.0 or later; Intel Macs are unsupported. Both the app and DMG are Developer ID signed and Apple notarized. Drag the app to Applications and choose Open if macOS asks for normal first-open confirmation. Older Mac clients need one manual installation of 0.1.18 to enable future in-app updates. Subsequent updates require user confirmation, signature verification, installation and a restart when prompted.
 
-[Mac 安装说明 / Mac installation instructions](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.11-macos-signed.1/INSTALL-macos.md) · [Mac SHA-256](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.11-macos-signed.1/SHA256SUMS.txt)
+[Mac 安装与更新说明 / Mac installation and updates](https://github.com/CreditsPlan/creditsplan/releases/tag/assistant-v0.1.18) · [Windows SHA-256](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.17/SHA256SUMS.txt) · [Mac SHA-256](https://github.com/CreditsPlan/creditsplan/releases/download/assistant-v0.1.18/SHA256SUMS.txt)
 
 [安装与隐私说明 / Installation and privacy](ASSISTANT.md) · [全部版本 / All releases](https://github.com/CreditsPlan/creditsplan/releases)
 
